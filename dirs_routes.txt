@@ -59,10 +59,13 @@ PaymentRequestFrontService.svc
 soapIssue.svc
 SoapTokenServiceContract
 securitynumberinfo.aspx
+voucher
+programs
 PaymentOptionFrontService.svc
 StoredCardFrontService.svc
 PaymentSchedulingService.svc
 MerchantConfigurationService.svc
+customer
 MerchantGatewayFrontService.svc
 MerchantSiteMiddleService.svc
 ScoringFrontService.svc
