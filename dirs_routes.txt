@@ -11,6 +11,9 @@ v3
 swagger
 card
 home
+actuator
+heapdump
+dump
 information
 admin
 creditHolder
