@@ -92,12 +92,15 @@ AntiFraudMiddleService.svc
 CheckCard3DEnrollmentService.svc
 pages
 AuthorizeCard3DPayment.svc
+forgot-password
 PaymentTransactionCardFrontService.svc
 PaymentTransactionMiddleService.svc
+log
 PaymentSchedulerMiddleService.svc
 UpdateOrderMiddleService.svc
 PaymentOptionMiddleService.svc
 CardPaymentCreditFrontService.svc
+signin
 MerchantAccountReconciliationMiddleService.svc
 state
 MerchantAccountMiddleService.svc
