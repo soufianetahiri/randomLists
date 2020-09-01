@@ -11,7 +11,11 @@ openapi.json
 _rest
 v3
 swagger
+devops
+_git
+items
 card
+signature
 home
 actuator
 heapdump
