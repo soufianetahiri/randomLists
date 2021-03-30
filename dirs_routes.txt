@@ -21,6 +21,11 @@ actuator
 heapdump
 dump
 information
+src
+AppBundle
+DataFixture
+ORM
+Fixture.php
 admin
 creditHolder
 payments
